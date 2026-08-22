@@ -1,0 +1,4 @@
+Model,ROC-AUC,Avg Precision (PR-AUC),Recall (catch defects),Precision,F1
+Random Forest,0.8227,0.2487,0.0,0.0,0.0
+Gradient Boosting,0.7889,0.1997,0.0769,0.2857,0.1212
+Logistic Regression,0.7094,0.1547,0.3846,0.1667,0.2326
